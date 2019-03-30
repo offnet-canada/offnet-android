@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sources">
+        <item name="CBC">CBC</item>
+        <item name="CNN">CNN</item>
+        <item name="BBC">BBC</item>
+        <item name="NYT">NYT</item>
+        <item name="RT">RT</item>
+        <item name="WIRED">WIRED</item>
+        <item name="TECHWORLD">TECHWORLD</item>
+        <item name="SPORTSILLUSTRATED">SPORTSILLUSTRATED</item>
+        <item name="WASHPOST">WASHPOST</item>
+        <item name="CANGOV">CANGOV</item>
+        <item name="CTV">CTV</item>
+        <item name="OCANADA">OCANADA</item>
+        <item name="YAHOO">YAHOO</item>
+        <item name="THEGUARDIAN">THEGUARDIAN</item>
+        <item name="CNET">CNET</item>
+        <item name="SLASHDOT">SLASHDOT</item>
+        <item name="METRO">METRO</item>
+        <item name="GOOGLE">GOOGLE</item>
+        <item name="FORBES">FORBES</item>
+        <item name="HUFFPOST">HUFFPOST</item>
+        <item name="WSJ">WSJ</item>
+        <item name="DAL">DAL</item>
+        <item name="HACKNEWS">HACKNEWS</item>
+    </array>
+    <array name="CBC">
+        <item name="MAIN">MAIN</item>
+        <item name="ART">ART</item>
+        <item name="MONEY">MONEY</item>
+        <item name="CANADIAN">CANADIAN</item>
+        <item name="POLITICS">POLITICS</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="TECHNOLOGY">TECHNOLOGY</item>
+        <item name="WORLD">WORLD</item>
+        <item name="HOCKEY">HOCKEY</item>
+        <item name="NOVASCOTIA">NOVASCOTIA</item>
+    </array>
+    <array name="CNN">
+        <item name="MAIN">MAIN</item>
+        <item name="ENTERTAINMENT">ENTERTAINMENT</item>
+        <item name="MONEY">MONEY</item>
+        <item name="RECENT">RECENT</item>
+        <item name="SCIENCE">SCIENCE</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="TECHNOLOGY">TECHNOLOGY</item>
+        <item name="WORLD">WORLD</item>
+    </array>
+    <array name="BBC">
+        <item name="MAIN">MAIN</item>
+        <item name="ENTERTAINMENT">ENTERTAINMENT</item>
+        <item name="MONEY">MONEY</item>
+        <item name="POLITICS">POLITICS</item>
+        <item name="MIDDLEEAST">MIDDLEEAST</item>
+        <item name="CANADIAN">CANADIAN</item>
+        <item name="TECHNOLOGY">TECHNOLOGY</item>
+        <item name="WORLD">WORLD</item>
+        <item name="HEALTH">HEALTH</item>
+        <item name="SCIENCE">SCIENCE</item>
+    </array>
+    <array name="NYT">
+        <item name="MAIN">MAIN</item>
+        <item name="SPORTS">SPORTS</item>
+    </array>
+    <array name="RT">
+        <item name="MAIN">MAIN</item>
+        <item name="WORLD">WORLD</item>
+    </array>
+    <array name="WIRED">
+        <item name="MAIN">MAIN</item>
+    </array>
+    <array name="TECHWORLD">
+        <item name="MAIN">MAIN</item>
+    </array>
+    <array name="SPORTSILLUSTRATED">
+        <item name="TOP">TOP</item>
+        <item name="NFL">NFL</item>
+        <item name="MLB">MLB</item>
+        <item name="NBA">NBA</item>
+        <item name="SOCCER">SOCCER</item>
+        <item name="TENNIS">TENNIS</item>
+        <item name="FANTASY">FANTASY</item>
+        <item name="MMA">MMA</item>
+    </array>
+    <array name="WASHPOST">
+        <item name="POLITICS">POLITICS</item>
+        <item name="NATIONAL">NATIONAL</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="WORLD">WORLD</item>
+        <item name="BUSINESS">BUSINESS</item>
+    </array>
+    <array name="CANGOV">
+        <item name="NATIONAL">NATIONAL</item>
+        <item name="ARTS">ARTS</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="WORLD">WORLD</item>
+        <item name="DEFENCE">DEFENCE</item>
+        <item name="HEALTH">HEALTH</item>
+        <item name="IMMIGRATION">IMMIGRATION</item>
+        <item name="ENVIRONMENT">ENVIRONMENT</item>
+        <item name="MONEY">MONEY</item>
+        <item name="PUBLICSAFETY">PUBLICSAFETY</item>
+        <item name="SCIENCE">SCIENCE</item>
+        <item name="TAXES">TAXES</item>
+        <item name="TRANSPORT">TRANSPORT</item>
+        <item name="TRAVEL">TRAVEL</item>
+    </array>
+    <array name="CTV">
+        <item name="MAIN">MAIN</item>
+        <item name="CANADA">CANADA</item>
+        <item name="WORLD">WORLD</item>
+        <item name="ENTERTAINMENT">ENTERTAINMENT</item>
+        <item name="POLITICS">POLITICS</item>
+        <item name="LIFESTYLE">LIFESTYLE</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="SCIENCE">SCIENCE</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="HEALTH">HEALTH</item>
+        <item name="AUTO">AUTO</item>
+        <item name="ATLANTIC">ATLANTIC</item>
+    </array>
+    <array name="OCANADA">
+        <item name="MAIN">MAIN</item>
+        <item name="NATIONAL">NATIONAL</item>
+        <item name="WORLD">WORLD</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="TECH">TECH</item>
+        <item name="ENTERTAINMENT">ENTERTAINMENT</item>
+        <item name="TRAVEL">TRAVEL</item>
+        <item name="HEALTH">HEALTH</item>
+        <item name="LIFESTYLE">LIFESTYLE</item>
+    </array>
+    <array name="YAHOO">
+        <item name="MAIN">MAIN</item>
+        <item name="TECH">TECH</item>
+        <item name="SPORTS">SPORTS</item>
+    </array>
+    <array name="THEGUARDIAN">
+        <item name="MAIN">MAIN</item>
+        <item name="WORLD">WORLD</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="SCIENCE">SCIENCE</item>
+        <item name="TECH">TECH</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="ENVIRONMENT">ENVIRONMENT</item>
+        <item name="GLOBALDEV">GLOBALDEV</item>
+        <item name="FOOTBALL">FOOTBALL</item>
+    </array>
+    <array name="CNET">
+        <item name="MAIN">MAIN</item>
+        <item name="TECH">TECH</item>
+    </array>
+    <array name="SLASHDOT">
+        <item name="MAIN">MAIN</item>
+    </array>
+    <array name="METRO">
+        <item name="MAIN">MAIN</item>
+        <item name="VANCOUVER">VANCOUVER</item>
+        <item name="CALGARY">CALGARY</item>
+        <item name="EDMONTON">EDMONTON</item>
+        <item name="HALIFAX">HALIFAX</item>
+        <item name="CANADA">CANADA</item>
+        <item name="WORLD">WORLD</item>
+        <item name="OPINION">OPINION</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="SPORTS">SPORTS</item>
+        <item name="ENTERTAINMENT">ENTERTAINMENT</item>
+        <item name="LIFESTYLE">LIFESTYLE</item>
+    </array>
+    <array name="GOOGLE">
+        <item name="MAIN">MAIN</item>
+    </array>
+    <array name="FORBES">
+        <item name="MAIN">MAIN</item>
+        <item name="POPULAR">POPULAR</item>
+    </array>
+    <array name="HUFFPOST">
+        <item name="US">US</item>
+        <item name="HEALTH">HEALTH</item>
+        <item name="POLITICS">POLITICS</item>
+        <item name="TECH">TECH</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="SCIENCE">SCIENCE</item>
+        <item name="TRAVEL">TRAVEL</item>
+        <item name="CODE">CODE</item>
+        <item name="WORLD">WORLD</item>
+        <item name="MAIN">MAIN</item>
+    </array>
+    <array name="WSJ">
+        <item name="OPINION">OPINION</item>
+        <item name="WORLD">WORLD</item>
+        <item name="BUSINESS">BUSINESS</item>
+        <item name="MARKET">MARKET</item>
+        <item name="TECH">TECH</item>
+        <item name="LIFESTYLE">LIFESTYLE</item>
+    </array>
+    <array name="DAL">
+        <item name="MAIN">MAIN</item>
+    </array>
+    <array name="HACKNEWS">
+        <item name="MAIN">MAIN</item>
+    </array>
+</resources>

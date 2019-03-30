@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Offnet</string>
+    <string name="title_activity_feed_activiy">Feeds</string>
+
+    <!-- Settings Locations -->
+    <string name="settings">settings</string>
+    <string name="settings_phone">phoneNum</string>
+    <string name="settings_credits">credits</string>
+
+    <!-- Offnet Number -->
+    <string name="offnet_number">1111111111</string>
+</resources>
