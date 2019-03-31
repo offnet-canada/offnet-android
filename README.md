@@ -8,7 +8,7 @@ This is the offical Offnet Android application.
 
 ### Demo
 
-![Android App](https://i.imgur.com/LNSiAp3.mp4)
+[Android App](https://i.imgur.com/LNSiAp3.mp4)
 
 ### Features:
 
